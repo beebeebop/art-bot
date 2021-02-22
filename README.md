@@ -31,7 +31,7 @@ Argument | Long Name | Meaning | Default
 --- | --- | --- | ---
 -n | --drawN | get N submissions to draw | 1
 -s | --subreddit | from subreddit | Redditgetsdrawnbybot
--c | --comment | make a comment or not | y
+-c | --comment | make a comment or not | yes
 -m | --maxComment | maximum number of comments from current user | 1
 ### More examples
 ```
